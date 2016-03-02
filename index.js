@@ -3,7 +3,6 @@ fis.require.prefixes.unshift('ftzu');
 
 fis.cli.name = 'ftzu';
 fis.cli.info = require('./package.json');
-console.log(fis.version);
 fis.cli.version = function(){
     var content = [
         'fis ' + fis.version,
