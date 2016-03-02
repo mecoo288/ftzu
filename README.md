@@ -1,2 +1,2 @@
 # ftzu
-fis plugin
+ftzu  npm block
